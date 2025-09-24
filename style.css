@@ -1,0 +1,54 @@
+/* extranal style */
+/* h1{
+    color: blue;
+} */
+/* selector */ 
+/* score */
+/* tag = 0
+id  = 100
+class = 10 */
+/* class = . */
+/* id = # */
+/* .k{
+    color: brown;
+}
+#k{
+    color: aqua;
+} */
+
+/* box-model */
+/* padding - margin - border - content */
+
+.box1,.box2,.box3{
+    width: 350px;
+    background: lightyellow;
+    margin: 20px auto;
+    border: black 3px solid;
+    border-radius: 5px;
+    padding: 15px;
+    
+}
+/* text_style */
+.text{
+    text-align: center;
+    text-decoration:none;
+    text-transform: lowercase;
+    /* letter-spacing: 1px; */
+
+}
+/* font style */
+.text{
+      font-family:    "SUSE Mono", sans-serif;;
+      font-weight: 500;
+      font-style: italic;
+      font-size: 10px;
+}
+.box1{
+    background-color: blueviolet;
+}
+.box2{
+    background-color: blanchedalmond;
+}
+.box3{
+    background-color: aqua;
+}
